@@ -40,8 +40,8 @@ Our method is divided into two stages:
 - Adaptive channel compression network: Employing lots of multichannel embeddings always don't work and it even incurs high computational cost. More importantly, we can't use transfer learning this way as they are optimized for 3 channel inputs. This essentially enables all those operations by compressing only valid features for object detection in three channel representations. 
 
 
-### Results
-# Quantitative Results on object detection
+# Results
+### Quantitative Results on object detection
 
 <div align="center">
   
@@ -50,7 +50,7 @@ Our method is divided into two stages:
 </div>
 
 
-# Qualitative on object detection across multiple datasets
+### Qualitative on object detection across multiple datasets
 
 <div align="center">
   
