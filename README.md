@@ -22,7 +22,7 @@ As you can see, it suffers two problems:
 In our work, we decided to employ 14-bit thermal images directly as inputs to neural networks to get the best out of the original data!
 ![detection_results_snu](https://github.com/ThermalCameleon/ThermalCameleonNet/assets/150974352/5ea2f646-87f4-4c71-8a54-f9aaa306b324)
 
-The figure above shows 
+The figure above shows the perceived image from the feature map prior to the object detection input. Essentially it is what image the object detection networks like to see in thermal image-based object detection. 
 
 ### Overview of the Thermal Cameleon Network
 
