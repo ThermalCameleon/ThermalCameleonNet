@@ -9,21 +9,21 @@ TLDR: We propose a new task-adaptive learnable preprocessing network for thermal
 ### Overview of the edge-guided multi-domain RGB2TIR translation network
 
 <div align="center">
-![Overview](https://github.com/ThermalCameleon/ThermalCameleonNet/assets/150974352/62069c32-1366-4bbb-a7ee-2fd1347b995e)
+!(https://github.com/ThermalCameleon/ThermalCameleonNet/assets/150974352/62069c32-1366-4bbb-a7ee-2fd1347b995e)
 </div>
 
 ### Results
 # Quantitative Results on object detection
 
 <div align="center">
-![image](https://github.com/ThermalCameleon/ThermalCameleonNet/assets/150974352/4c543b54-7e92-4b11-b449-62428c20c6f3)
+!(https://github.com/ThermalCameleon/ThermalCameleonNet/assets/150974352/4c543b54-7e92-4b11-b449-62428c20c6f3)
 </div>
 
 
 # Qualitative on object detection across multiple datasets
 
 <div align="center">
-![qualitative_new](https://github.com/ThermalCameleon/ThermalCameleonNet/assets/150974352/966a72f6-f65d-421b-9139-2cf6d19d55d7)
+!(https://github.com/ThermalCameleon/ThermalCameleonNet/assets/150974352/966a72f6-f65d-421b-9139-2cf6d19d55d7)
 
 </div>
 
